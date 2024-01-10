@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Simulation_Stage.umap",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/M_Shake_Table.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_Top_Tray.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_Middle_Tray.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/shake_table_low_base.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/shake_table_low_middle_layer.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/shake_table_low_Shake_Table_BaseColor.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/shake_table_low_Shake_Table_Normal.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/shake_table_low_Shake_Table_OcclusionRoughnessMetallic.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/shake_table_low_tray.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_Top_Tray_Ver2.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_Middle_Tray_Ver2.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/M_Bowling_Pin.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/bowlingpinlow.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_bowlingpin.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/bowlingpinlow_M_Solid_Cyan_BaseColor.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/bowlingpinlow_M_Solid_Cyan_Normal.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Textures/bowlingpinlow_M_Solid_Cyan_OcclusionRoughnessMetallic.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/UCX_bowlingpin.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_Middle_Tray_Ver3.uasset",
+				"/Users/kenny/Documents/Unreal Projects/Earthquake_Sim/Content/Mesh/BP_Top_Tray1.uasset"
+			]
+		}
+	]
+}
