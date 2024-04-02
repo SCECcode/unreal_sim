@@ -5,3 +5,7 @@ To run the current version of the project Unreal Engine version 5.3 is needed.  
 
 ### For Mac:
 Xcode from the App Store required.
+
+## Getting started:
+### For Mac:
+1. open App Store
